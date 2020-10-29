@@ -29,6 +29,10 @@ h2 {
   font-size: 58px;
 }
 
+h3 {
+  font-size: 40px;
+}
+
 .section {
   padding: 3rem 0;
 }
@@ -153,6 +157,10 @@ h2 {
 
 .logo {
   opacity: 0.6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
 }
 
 .h3 {
